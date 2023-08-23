@@ -8,6 +8,8 @@ Sitio web de venta de artículos de segunda mano
 
 ![shoplify 3](https://github.com/BorjaIranzoBadenes/Shoplify/assets/82673611/e5265880-965f-4c5b-9f26-5f412a89e721)
 
+![shoplify 7](https://github.com/BorjaIranzoBadenes/Shoplify/assets/82673611/feeb40eb-f392-48c7-9801-cf864b62b942)
+
 
 ![shoplify 4](https://github.com/BorjaIranzoBadenes/Shoplify/assets/82673611/c57755c3-a8db-4d98-b769-1f88b5230a75)
 
@@ -24,5 +26,7 @@ Sitio web de venta de artículos de segunda mano
 ![shoplify 6](https://github.com/BorjaIranzoBadenes/Shoplify/assets/82673611/f09cb6d9-bab2-40d9-be3c-11d5a724042d)
 
 
-![shoplify 7](https://github.com/BorjaIranzoBadenes/Shoplify/assets/82673611/feeb40eb-f392-48c7-9801-cf864b62b942)
+
+
+
 
