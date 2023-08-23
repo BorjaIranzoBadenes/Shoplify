@@ -11,6 +11,9 @@ Sitio web de venta de artículos de segunda mano
 
 ![shoplify 4](https://github.com/BorjaIranzoBadenes/Shoplify/assets/82673611/c57755c3-a8db-4d98-b769-1f88b5230a75)
 
+![crear anuncio](https://github.com/BorjaIranzoBadenes/Shoplify/assets/82673611/20fc7b6f-23fb-4ded-bc3c-87172755ae03)
+
+
 
 ![shoplify 5](https://github.com/BorjaIranzoBadenes/Shoplify/assets/82673611/2b746119-e9e7-40be-bff7-267cdaa61dea)
 
